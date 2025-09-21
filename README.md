@@ -21,7 +21,7 @@ Play the classic game where the snake grows longer as it eats food, but watch ou
 ---
 
 ## 🚀 Demo
-👉 [Play the Game Online](#) *(replace `#` with your GitHub Pages link once deployed)*
+👉 [Play the Game Online]
 
 ---
 

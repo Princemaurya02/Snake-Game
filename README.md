@@ -43,4 +43,4 @@ Play the classic game where the snake grows longer as it eats food, but watch ou
 
 ---
 
-## 📂 Project Structure
+

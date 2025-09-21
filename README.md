@@ -1,3 +1,4 @@
+
 snake-game/
 │── index.html # Main HTML file
 │── style.css # Game styling
